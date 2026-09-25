@@ -13,5 +13,5 @@ if ! mountpoint -q /mnt/nas; then
 fi
 
 echo "$(date) Empieza la copia de $ORIGEN" >> "$LOG"
-rsync -a "$ORIGEN/" "$DESTINO/$FECHA/"
-echo "$(date) Copia terminada en $DESTINO/$FECHA" >> "$LOG"
+rsync -a --delete "$DESTINO/" "$ORIGEN/"
+echo "$(date) Copia terminada en $DESTINO" >> "$LOG"
