@@ -15,3 +15,5 @@ Documentación interna del departamento de sistemas.
 
 1. Todo cambio en la red o en los equipos se apunta aquí.
 2. Mensajes de commit claros: qué has cambiado y por qué.
+3. **Nunca, NUNCA, subas contraseñas al repositorio.**
+4. Antes de poner una IP fija a un equipo, resérvala en `red/direcciones-ip.md`.
