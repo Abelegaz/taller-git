@@ -1,5 +1,0 @@
-Notas de la oficina antigua (calle Mayor, 12). YA NO SIRVEN.
-
-- Router antiguo: 192.168.1.1
-- El servidor viejo estaba debajo de la mesa de recepción.
-- La impresora del pasillo se atascaba si no se le daba un golpe.
