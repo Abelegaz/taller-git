@@ -1,5 +1,10 @@
 #!/bin/bash
-# Copia de seguridad del servidor de ficheros al NAS
+# ------------------------------------------------------------
+# copia-seguridad.sh
+# Copia de seguridad del servidor de ficheros al NAS.
+# Se ejecuta cada noche a las 02:00 desde el cron de root:
+#   0 2 * * * /opt/scripts/copia-seguridad.sh
+# ------------------------------------------------------------
 
 ORIGEN="/srv/ficheros"
 DESTINO="/mnt/nas/copias"
