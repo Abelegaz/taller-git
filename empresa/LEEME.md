@@ -10,6 +10,7 @@ Documentación interna del departamento de sistemas.
 | `red/` | Plan de direcciones IP |
 | `scripts/` | Scripts de mantenimiento |
 | `procedimientos/` | Cómo hacemos las cosas (altas, incidencias...) |
+| `personal/` | Fichas del personal del departamento |
 
 ## Normas
 
