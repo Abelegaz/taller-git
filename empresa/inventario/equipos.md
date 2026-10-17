@@ -29,3 +29,4 @@
 | pc-aula2-02 | Aula 2 | alumnado | Ubuntu 24.04 | Intel i5-12400 | 16 GB | SSD 512 GB |
 | pc-aula2-03 | Aula 2 | alumnado | Ubuntu 24.04 | Intel i5-12400 | 16 GB | SSD 512 GB |
 | pc-aula2-04 | Aula 2 | alumnado | Ubuntu 24.04 | Intel i5-12400 | 16 GB | SSD 512 GB |
+| pc-aula2-profe | Aula 2 | profesorado | Windows 11 Pro | Intel i7-12700 | 32 GB | SSD 1 TB |
